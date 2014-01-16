@@ -1,13 +1,15 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+obj/
+ipch/
+pdb/
+*.sdf
+*.suo
+*.opensdf
+*.user
+*.aps
+*.exe
+*.ilk
+*.dll
+*.lib
+*.exp
+!mrl.lib
+!mrl.dll
